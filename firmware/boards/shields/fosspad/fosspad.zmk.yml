@@ -1,9 +1,0 @@
-file_format: "1"
-id: fosspad
-name: fosspad
-type: shield
-url: https://github.com/Mindcool25/zmk-config-fosspad/
-requires: 
-  - pro_micro
-features:
-  - keys

@@ -1,4 +1,0 @@
-if SHIELD_FOSSPAD
-    config ZMK_KEYBOARD_NAME
-        default "fosspad"
-endif

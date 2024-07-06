@@ -1,2 +1,0 @@
-config SHIELD_FOSSPAD
-    def_bool $(shields_list_contains,fosspad)
